@@ -1,0 +1,80 @@
+/* Reset margins and padding to ensure consistency across browsers */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Styling for the entire body to set a font and background that is easy on the eyes */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f6;
+    color: #333;
+}
+
+/* Main container styling for centered content */
+#main {
+    width: 80%;
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for form elements to improve visual hierarchy and readability */
+.form-group {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #666;
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="submit"] {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+}
+
+input[type="submit"] {
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+input[type="submit"]:hover, input[type="submit"]:focus {
+    background-color: #0056b3;
+}
+
+/* Styling for checkboxes for better alignment and usability */
+input[type="checkbox"] {
+    margin-right: 0.5rem;
+}
+
+/* Link styling for better visibility and consistency with form operations */
+a {
+    color: #007bff;
+    text-decoration: none;
+    padding: 0.5rem;
+    display: inline-block;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive design adjustments for smaller devices */
+@media (max-width: 768px) {
+    #main {
+        width: 90%;
+        padding: 1rem;
+    }
+}

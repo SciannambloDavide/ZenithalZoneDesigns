@@ -1,0 +1,1111 @@
+# French translations for PACKAGE package.
+# Copyright (C) 2024 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# root <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-16 04:13+0000\n"
+"PO-Revision-Date: 2024-05-16 04:13+0000\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: app/views/Admin/adminSideBar.php:6 app/views/Admin/dashboard.php:63
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: app/views/Admin/adminSideBar.php:9
+msgid "Product Management"
+msgstr "Gestion des produits"
+
+#: app/views/Admin/adminSideBar.php:12
+msgid "Review Management"
+msgstr "Gestion des avis"
+
+#: app/views/Admin/adminSideBar.php:15
+#: app/views/Admin/categoryManagement.php:63 app/views/Category/create.php:65
+msgid "Category Management"
+msgstr "Gestion des catégories"
+
+#: app/views/Admin/adminSideBar.php:18
+msgid "Order Management"
+msgstr "Gestion des commandes"
+
+#: app/views/Admin/adminSideBar.php:21
+msgid "Newsletter"
+msgstr "Bulletin d'information"
+
+#: app/views/Admin/adminSideBar.php:24
+msgid "Contact User"
+msgstr "Contacter l'utilisateur"
+
+#: app/views/Admin/categoryManagement.php:52 app/views/Admin/contact.php:52
+#: app/views/Admin/dashboard.php:53 app/views/Admin/newsletter.php:52
+#: app/views/Admin/orderManagement.php:51
+#: app/views/Admin/productManagement.php:52
+#: app/views/Admin/reviewManagement.php:52
+#: app/views/Category/addMultiple.php:53 app/views/Category/create.php:54
+#: app/views/Category/update.php:54 app/views/navBar.php:138
+#: app/views/Product/productAll.php:20 app/views/Product/Productcategory.php:20
+#: app/views/User/AdminLogin/navBar.php:139
+#: app/views/Product/offcanvas/adminNavbar.php:13
+msgid "Home"
+msgstr "Accueil"
+
+#: app/views/Admin/categoryManagement.php:55 app/views/Admin/contact.php:55
+#: app/views/Admin/dashboard.php:56 app/views/Admin/newsletter.php:55
+#: app/views/Admin/orderManagement.php:54
+#: app/views/Admin/productManagement.php:55
+#: app/views/Admin/reviewManagement.php:55
+#: app/views/Category/addMultiple.php:56 app/views/Category/create.php:57
+#: app/views/Category/update.php:57 app/views/Customer/viewProfile.php:53
+#: app/views/Product/offcanvas/adminNavbar.php:16
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: app/views/Admin/categoryManagement.php:75
+msgid "List Of Categories"
+msgstr "Liste des catégories"
+
+#: app/views/Admin/categoryManagement.php:78
+#: app/views/Admin/productManagement.php:78
+#: app/views/Admin/reviewManagement.php:78
+msgid "--Select Option"
+msgstr "--Sélectionnez une option"
+
+#: app/views/Admin/categoryManagement.php:79
+msgid "Category's Name A-Z"
+msgstr "Nom de la catégorie de A à Z"
+
+#: app/views/Admin/categoryManagement.php:80
+msgid "Category's Name Z-A"
+msgstr "Nom de la catégorie de Z à A"
+
+#: app/views/Admin/categoryManagement.php:81
+msgid "Number of Products ASC"
+msgstr "Nombre de produits croissant"
+
+#: app/views/Admin/categoryManagement.php:82
+msgid "Number of Products DESC"
+msgstr "Nombre de produits décroissant"
+
+#: app/views/Admin/categoryManagement.php:84
+#: app/views/Admin/orderManagement.php:76
+#: app/views/Admin/productManagement.php:86
+#: app/views/Admin/reviewManagement.php:86
+#: app/views/Category/addMultiple.php:70
+msgid "Sort"
+msgstr "Trier"
+
+#: app/views/Admin/categoryManagement.php:85
+#: app/views/Admin/productManagement.php:87
+#: app/views/Admin/reviewManagement.php:87
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: app/views/Admin/categoryManagement.php:88
+#: app/views/Admin/productManagement.php:90
+msgid "Search By Name"
+msgstr "Rechercher par nom"
+
+#: app/views/Admin/categoryManagement.php:89
+#: app/views/Admin/orderManagement.php:81
+#: app/views/Admin/productManagement.php:91
+#: app/views/Admin/reviewManagement.php:91
+msgid "Search"
+msgstr "Rechercher"
+
+#: app/views/Admin/categoryManagement.php:93
+#: app/views/Admin/productManagement.php:95
+msgid "New Entry"
+msgstr "Nouvelle entrée"
+
+#: app/views/Admin/categoryManagement.php:101
+#: app/views/Admin/productManagement.php:105 app/views/Category/update.php:65
+#: app/views/Category/update.php:99 app/views/Product/productAll.php:42
+msgid "Category"
+msgstr "Catégorie"
+
+#: app/views/Admin/categoryManagement.php:102
+msgid "Number of Products"
+msgstr "Nombre de produits"
+
+#: app/views/Admin/categoryManagement.php:117
+msgid "Number of Products Under This Category"
+msgstr "Nombre de produits sous cette catégorie"
+
+#: app/views/Admin/categoryManagement.php:120
+#: app/views/Admin/productManagement.php:153
+#: app/views/Picture/ProductImage.php:89
+msgid "Edit"
+msgstr "Modifier"
+
+#: app/views/Admin/categoryManagement.php:121
+#: app/views/Admin/productManagement.php:154
+#: app/views/Admin/reviewManagement.php:163
+#: app/views/Picture/ProductImage.php:90
+msgid "Delete"
+msgstr "Supprimer"
+
+#: app/views/Admin/categoryManagement.php:144
+#: app/views/Admin/productManagement.php:180
+msgid "Error Deleting"
+msgstr "Erreur lors de la suppression"
+
+#: app/views/Admin/categoryManagement.php:153
+#: app/views/Admin/productManagement.php:191
+#: app/views/Category/addMultiple.php:142 app/views/Category/update.php:172
+msgid "Close"
+msgstr "Fermer"
+
+#: app/views/Admin/contact.php:66
+msgid "Contact a User"
+msgstr "Contacter un utilisateur"
+
+#: app/views/Admin/contact.php:69
+msgid "Customer Email"
+msgstr "E-mail du client"
+
+#: app/views/Admin/contact.php:73 app/views/Admin/newsletter.php:74
+#: app/views/Contact/contact.php:25
+msgid "Subject"
+msgstr "Sujet"
+
+#: app/views/Admin/contact.php:77 app/views/Admin/newsletter.php:78
+#: app/views/Contact/contact.php:29
+msgid "Message"
+msgstr "Message"
+
+#: app/views/Admin/contact.php:80 app/views/Admin/newsletter.php:81
+#: app/views/Contact/contact.php:32
+msgid "Submit"
+msgstr "Soumettre"
+
+#: app/views/Admin/contact.php:91
+msgid "Download User List"
+msgstr "Télécharger la liste des utilisateurs"
+
+#: app/views/Admin/dashboard.php:64
+msgid "Welcome Back Administrator!"
+msgstr "Bienvenue Administrateur !"
+
+#: app/views/Admin/newsletter.php:67
+msgid "Post On The Newsletter"
+msgstr "Poster sur le bulletin d'information"
+
+#: app/views/Admin/newsletter.php:70
+msgid "To"
+msgstr "À"
+
+#: app/views/Admin/newsletter.php:92
+msgid "Download Subscribers List"
+msgstr "Télécharger la liste des abonnés"
+
+#: app/views/Admin/orderManagement.php:62
+msgid "Order Managment"
+msgstr "Gestion des commandes"
+
+#: app/views/Admin/orderManagement.php:67
+msgid "List of Orders"
+msgstr "Liste des commandes"
+
+#: app/views/Admin/orderManagement.php:71
+msgid "Time Ascending"
+msgstr "Temps croissant"
+
+#: app/views/Admin/orderManagement.php:72
+msgid "Time Descending"
+msgstr "Temps décroissant"
+
+#: app/views/Admin/orderManagement.php:73
+msgid "Price Ascending"
+msgstr "Prix croissant"
+
+#: app/views/Admin/orderManagement.php:74
+msgid "Price Descending"
+msgstr "Prix décroissant"
+
+#: app/views/Admin/orderManagement.php:88
+msgid "Order ID"
+msgstr "ID de commande"
+
+#: app/views/Admin/orderManagement.php:89
+msgid "Customer ID"
+msgstr "ID client"
+
+#: app/views/Admin/orderManagement.php:90
+msgid "Total Price"
+msgstr "Prix total"
+
+#: app/views/Admin/orderManagement.php:91
+#: app/views/Admin/reviewManagement.php:117
+msgid "Status"
+msgstr "Statut"
+
+#: app/views/Admin/orderManagement.php:104
+msgid "Placed"
+msgstr "Passée"
+
+#: app/views/Admin/orderManagement.php:105
+msgid "Shipped"
+msgstr "Expédiée"
+
+#: app/views/Admin/orderManagement.php:106
+msgid "Completed/Delivered"
+msgstr "Terminée/Livrée"
+
+#: app/views/Admin/productManagement.php:63
+msgid "Products Management"
+msgstr "Gestion des produits"
+
+#: app/views/Admin/productManagement.php:75
+msgid "List of Products"
+msgstr "Liste des produits"
+
+#: app/views/Admin/productManagement.php:79
+#: app/views/Admin/reviewManagement.php:79
+msgid "Product's Name A-Z"
+msgstr "Nom du produit de A à Z"
+
+#: app/views/Admin/productManagement.php:80
+#: app/views/Admin/reviewManagement.php:80
+msgid "Product's Name Z-A"
+msgstr "Nom du produit de Z à A"
+
+#: app/views/Admin/productManagement.php:81
+msgid "Product's Price ASC"
+msgstr "Prix du produit croissant"
+
+#: app/views/Admin/productManagement.php:82
+msgid "Product's Price DESC"
+msgstr "Prix du produit décroissant"
+
+#: app/views/Admin/productManagement.php:83
+msgid "Product's ID ASC"
+msgstr "ID du produit croissant"
+
+#: app/views/Admin/productManagement.php:84
+msgid "Product's ID DESC"
+msgstr "ID du produit décroissant"
+
+#: app/views/Admin/productManagement.php:106
+#: app/views/Admin/reviewManagement.php:118
+#: app/views/Category/addMultiple.php:86 app/views/Category/update.php:116
+#: app/views/Product/Productcategory.php:21
+msgid "Product"
+msgstr "Produit"
+
+#: app/views/Admin/productManagement.php:107
+msgid "Other Info"
+msgstr "Autres informations"
+
+#: app/views/Admin/productManagement.php:141
+#: app/views/Admin/reviewManagement.php:154
+#: app/views/Category/addMultiple.php:111 app/views/Category/update.php:141
+#: app/views/Customer/modify.php:17 app/views/Customer/updatePassword.php:17
+#: app/views/Customer/viewProfile.php:34 app/views/Product/productAll.php:134
+#: app/views/Product/Productcategory.php:86
+msgid "Name"
+msgstr "Nom"
+
+#: app/views/Admin/productManagement.php:142
+#: app/views/Category/addMultiple.php:112 app/views/Category/update.php:142
+msgid "Description"
+msgstr "Description"
+
+#: app/views/Admin/productManagement.php:145
+msgid "Regular Price"
+msgstr "Prix régulier"
+
+#: app/views/Admin/productManagement.php:146
+msgid "In Stock"
+msgstr "En stock"
+
+#: app/views/Admin/productManagement.php:146 app/views/Product/product.php:326
+msgid "Yes"
+msgstr "Oui"
+
+#: app/views/Admin/productManagement.php:146 app/views/Product/product.php:326
+msgid "No"
+msgstr "Non"
+
+#: app/views/Admin/productManagement.php:148
+#: app/views/Product/create.php:117
+msgid "Quantity"
+msgstr "Quantité"
+
+#: app/views/Admin/productManagement.php:152
+msgid "Edit Photos"
+msgstr "Modifier les photos"
+
+#: app/views/Admin/productManagement.php:155
+#: app/views/Admin/reviewManagement.php:164
+msgid "View"
+msgstr "Voir"
+
+#: app/views/Admin/productManagement.php:178
+msgid "Deleted Successfully"
+msgstr "Supprimé avec succès"
+
+#: app/views/Admin/reviewManagement.php:63
+msgid "Reviews Management"
+msgstr "Gestion des avis"
+
+#: app/views/Admin/reviewManagement.php:75
+msgid "List of Reviews"
+msgstr "Liste des avis"
+
+#: app/views/Admin/reviewManagement.php:81
+msgid "Status Inactive-Active"
+msgstr "Statut Inactif-Actif"
+
+#: app/views/Admin/reviewManagement.php:82
+msgid "Status Active-Inactive"
+msgstr "Statut Actif-Inactif"
+
+#: app/views/Admin/reviewManagement.php:83
+msgid "Date Oldest-Latest"
+msgstr "Date du plus ancien au plus récent"
+
+#: app/views/Admin/reviewManagement.php:84
+msgid "Date Latest-Oldest"
+msgstr "Date du plus récent au plus ancien"
+
+#: app/views/Admin/reviewManagement.php:90
+msgid "Search By Product ID"
+msgstr "Rechercher par ID de produit"
+
+#: app/views/Admin/reviewManagement.php:98
+msgid "Approve Selected"
+msgstr "Approuver la sélection"
+
+#: app/views/Admin/reviewManagement.php:99
+msgid "Deny Selected"
+msgstr "Refuser la sélection"
+
+#: app/views/Admin/reviewManagement.php:105
+#: app/views/Category/update.php:201
+#: app/views/Category/update.php:211
+#: app/views/Category/addMultiple.php:76
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#: app/views/Admin/reviewManagement.php:114
+msgid "Select"
+msgstr "Sélectionner"
+
+#: app/views/Admin/reviewManagement.php:116
+msgid "Title"
+msgstr "Titre"
+
+#: app/views/Admin/reviewManagement.php:119
+msgid "Date Added"
+msgstr "Date d'ajout"
+
+#: app/views/Admin/reviewManagement.php:145
+msgid "[Active]"
+msgstr "[Actif]"
+
+#: app/views/Admin/reviewManagement.php:147
+msgid "[Inactive]"
+msgstr "[Inactif]"
+
+#: app/views/Cart/cart.php:18 app/views/Home/index.php:579
+#: app/views/navBar.php:210 app/views/Product/product.php:620
+msgid "Your Cart"
+msgstr "Votre panier"
+
+#: app/views/Cart/cart.php:27 app/views/Product/product.php:307
+msgid "Details"
+msgstr "Détails"
+
+#: app/views/Cart/cart.php:88 app/views/Category/update.php:86
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: app/views/Cart/cart.php:95 app/views/Wish/viewAllWish.php:50
+msgid "Remove"
+msgstr "Supprimer"
+
+#: app/views/Cart/cart.php:173
+msgid "Have a Coupon Code?"
+msgstr "Avez-vous un code de réduction ?"
+
+#: app/views/Cart/cart.php:186 app/views/navBar.php:229
+msgid "Proceed to Checkout"
+msgstr "Passer à la caisse"
+
+#: app/views/Cart/checkout.php:17
+msgid "Checkout Securely"
+msgstr "Paiement sécurisé"
+
+#: app/views/Cart/checkout.php:24
+msgid "Contact information"
+msgstr "Informations de contact"
+
+#: app/views/Cart/checkout.php:30 app/views/Customer/modify.php:20
+#: app/views/Customer/updatePassword.php:20
+#: app/views/Customer/viewProfile.php:37
+msgid "Email"
+msgstr "E-mail"
+
+#: app/views/Cart/checkout.php:37
+msgid "Keep me updated with your latest news and offers"
+msgstr "Gardez-moi informé de vos dernières nouvelles et offres"
+
+#: app/views/Cart/checkout.php:44
+msgid "Shipping Address"
+msgstr "Adresse de livraison"
+
+#: app/views/Cart/checkout.php:49
+msgid "First Name"
+msgstr "Prénom"
+
+#: app/views/Cart/checkout.php:57
+msgid "Last Name"
+msgstr "Nom de famille"
+
+#: app/views/Cart/checkout.php:65
+msgid "Address"
+msgstr "Adresse"
+
+#: app/views/Cart/checkout.php:73
+msgid "Country"
+msgstr "Pays"
+
+#: app/views/Cart/checkout.php:75 app/views/Cart/checkout.php:86
+msgid "Please Select"
+msgstr "Veuillez sélectionner"
+
+#: app/views/Cart/checkout.php:84
+msgid "State"
+msgstr "État"
+
+#: app/views/Cart/checkout.php:95
+msgid "Zip/Postal Code"
+msgstr "Code postal"
+
+#: app/views/Cart/checkout.php:106
+msgid "Shipping Method"
+msgstr "Mode de livraison"
+
+#: app/views/Cart/checkout.php:114
+msgid "Shipping"
+msgstr "Livraison"
+
+#: app/views/Cart/checkout.php:126
+msgid "Payment Information"
+msgstr "Informations de paiement"
+
+#: app/views/Cart/checkout.php:136
+msgid "Credit Cart"
+msgstr "Carte de crédit"
+
+#: app/views/Cart/checkout.php:166
+msgid "Name On Card"
+msgstr "Nom sur la carte"
+
+#: app/views/Cart/checkout.php:168
+msgid "Full Name Display On Card"
+msgstr "Nom complet affiché sur la carte"
+
+#: app/views/Cart/checkout.php:174
+msgid "Credit Card Number"
+msgstr "Numéro de carte de crédit"
+
+#: app/views/Cart/checkout.php:181
+msgid "Expiration"
+msgstr "Expiration"
+
+#: app/views/Cart/checkout.php:189
+msgid "Security Code"
+msgstr "Code de sécurité"
+
+#: app/views/Cart/checkout.php:191
+msgid "What's This"
+msgstr "Qu'est-ce que c'est"
+
+#: app/views/Cart/checkout.php:203
+msgid ""
+" Please click on complete order. You will then be transferred to Paypal to "
+"enter your payment details."
+msgstr ""
+" Veuillez cliquer sur commander pour terminer. Vous serez ensuite transféré "
+"vers Paypal pour saisir vos coordonnées de paiement."
+
+#: app/views/Cart/checkout.php:304
+msgid "I Agree To ZZD's "
+msgstr "J'accepte les conditions de ZZD"
+
+#: app/views/Cart/checkout.php:304
+msgid "Terms & Conditions"
+msgstr "Conditions générales"
+
+#: app/views/Cart/checkout.php:308
+msgid "Complete Order"
+msgstr "Commander"
+
+#: app/views/Category/addMultiple.php:64
+msgid "Add Products to Category"
+msgstr "Ajouter des produits à la catégorie"
+
+#: app/views/Category/addMultiple.php:70
+msgid "List of Products Without"
+msgstr "Liste des produits sans"
+
+#: app/views/Category/addMultiple.php:133 app/views/Category/update.php:163
+msgid "Error"
+msgstr "Erreur"
+
+#: app/views/Category/create.php:71
+msgid "Add Category"
+msgstr "Ajouter une catégorie"
+
+#: app/views/Category/create.php:80 app/views/Category/update.php:80
+#: app/views/Category/update.php:81
+msgid "Category Title"
+msgstr "Titre de la catégorie"
+
+#: app/views/Category/create.php:86
+#: app/views/Product/create.php:122
+msgid "Create"
+msgstr "Créer"
+
+#: app/views/Category/update.php:71
+msgid "Update Category"
+msgstr "Mettre à jour la catégorie"
+
+#: app/views/Category/update.php:99
+msgid "List of Products With"
+msgstr "Liste des produits avec"
+
+#: app/views/Contact/contact.php:14
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+#: app/views/Contact/contact.php:17
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: app/views/Contact/contact.php:21
+msgid "Your Email"
+msgstr "Votre e-mail"
+
+#: app/views/Customer/modify.php:23 app/views/Customer/updatePassword.php:23
+#: app/views/Customer/viewProfile.php:40 app/views/User/login.php:24
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: app/views/Customer/modify.php:27
+msgid "Subscribe to Newsletter"
+msgstr "S'abonner à la newsletter"
+
+#: app/views/Customer/modify.php:31
+msgid "Enable Two-Factor Authentication"
+msgstr "Activer l'authentification à deux facteurs"
+
+#: app/views/Customer/modify.php:35 app/views/Customer/updatePassword.php:36
+msgid "Cancel"
+msgstr "Annuler"
+
+#: app/views/Customer/updatePassword.php:26
+msgid "Current Password"
+msgstr "Mot de passe actuel"
+
+#: app/views/Customer/updatePassword.php:29
+msgid "New Password: At Least 8 Characters"
+msgstr "Nouveau mot de passe : au moins 8 caractères"
+
+#: app/views/Customer/updatePassword.php:32
+msgid "Confirm New Password"
+msgstr "Confirmer le nouveau mot de passe"
+
+#: app/views/Customer/viewProfile.php:29
+msgid "Hello"
+msgstr "Bonjour"
+
+#: app/views/Customer/viewProfile.php:43
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: app/views/Customer/viewProfile.php:47
+msgid "Two-Factor Authentical"
+msgstr "Authentification à deux facteurs"
+
+#: app/views/Customer/viewProfile.php:48
+msgid "ENABLED"
+msgstr "ACTIVÉ"
+
+#: app/views/Customer/viewProfile.php:48
+msgid "DISABLED"
+msgstr "DÉSACTIVÉ"
+
+#: app/views/Customer/viewProfile.php:51
+msgid "Modify My Profile"
+msgstr "Modifier mon profil"
+
+#: app/views/Customer/viewProfile.php:52
+msgid "Update Password"
+msgstr "Mettre à jour le mot de passe"
+
+#: app/views/footer.php:13
+msgid "Company"
+msgstr "Société"
+
+#: app/views/footer.php:16
+msgid "About Us"
+msgstr "À propos de nous"
+
+#: app/views/footer.php:18 app/views/navBar.php:143
+msgid "Contact"
+msgstr "Contact"
+
+#: app/views/footer.php:28
+msgid "Go To The Top"
+msgstr "Revenir en haut de la page"
+
+#: app/views/footer.php:33
+msgid "Connect With Us"
+msgstr "Connectez-vous avec nous"
+
+#: app/views/footer.php:39
+msgid "Newsletter Subscription"
+msgstr "Abonnement à la newsletter"
+
+#: app/views/footer.php:43
+msgid "Subscribe"
+msgstr "S'abonner"
+
+#: app/views/footer.php:51
+msgid "Secure Payment with"
+msgstr "Paiement sécurisé avec"
+
+#: app/views/navBar.php:33
+msgid "Sign In"
+msgstr "Se connecter"
+
+#: app/views/navBar.php:34
+msgid "Create An Account"
+msgstr "Créer un compte"
+
+#: app/views/navBar.php:42
+msgid "Account"
+msgstr "Compte"
+
+#: app/views/navBar.php:48
+msgid "Wishlist"
+msgstr "Liste de souhaits"
+
+#: app/views/navBar.php:51
+msgid "Log Out"
+msgstr "Se déconnecter"
+
+#: app/views/navBar.php:157
+msgid "Select Language"
+msgstr "Sélectionner la langue"
+
+#: app/views/Home/index.php:21
+msgid "Where will your next adventure take you?"
+msgstr "Où vous mènera votre prochaine aventure ?"
+
+#: app/views/Home/index.php:24
+msgid "View All Product"
+msgstr "Voir tous les produits"
+
+#: app/views/Home/index.php:70
+msgid "Lucky Finds"
+msgstr "Découvertes chanceuses"
+
+#: app/views/Home/index.php:70
+msgid "Each item on this list has been curated for its potential to bring a stroke of luck into your life. Who knows? Your next lucky break might just be a click away!"
+msgstr "Chaque élément de cette liste a été sélectionné pour son potentiel à apporter une touche de chance dans votre vie. Qui sait ? Votre prochaine chance pourrait être à portée de clic !"
+
+#: app/views/Home/index.php:273
+msgid "Extreme Peformance"
+msgstr "Performance extrême"
+
+#: app/views/Home/index.php:274
+msgid "Electronics"
+msgstr "Électronique"
+
+#: app/views/Home/index.php:275
+msgid "Be ready all year round with our selection of North Face outdoor jackets, perfect for any time of the year and year round. Choose from a variety of colour shades and styles to warm you up in cold conditions."
+msgstr "Soyez prêt toute l'année avec notre sélection de vestes de plein air North Face, parfaites pour n'importe quelle période de l'année. Choisissez parmi une variété de couleurs et de styles pour vous réchauffer par temps froid."
+
+#: app/views/Home/index.php:276
+msgid "Shop For Electronics"
+msgstr "Acheter des produits électroniques"
+
+#: app/views/Home/index.php:386
+msgid "Products"
+msgstr "Produits"
+
+#: app/views/Home/index.php:387
+msgid "New Products"
+msgstr "Nouveaux produits"
+
+#: app/views/Home/index.php:387
+msgid "Introducing our freshest arrivals, carefully curated to captivate your imagination and elevate your lifestyle. Unveil the allure of innovation with our newest products, each one a testament to quality, creativity, and ingenuity."
+msgstr "Présentation de nos toutes dernières arrivées, soigneusement sélectionnées pour captiver votre imagination et améliorer votre style de vie. Découvrez le charme de l'innovation avec nos nouveaux produits, chacun étant un témoignage de qualité, de créativité et d'ingéniosité."
+
+#: app/views/footer.php:39
+msgid "Join Our Newsletter"
+msgstr "Abonnez-vous à notre newsletter"
+
+#: app/views/footer.php:40
+msgid "Sign up to our newsletter to be the first to know about new arrivals, sales or anything else Zenithal. By subscribing to our mailing list you agree to our terms and conditions."
+msgstr "Inscrivez-vous à notre newsletter pour être le premier à être informé des nouveautés, des ventes ou de tout ce qui concerne Zenithal. En vous abonnant à notre liste de diffusion, vous acceptez nos conditions générales."
+
+#: app/views/footer.php:45
+msgid "Enter Your Email"
+msgstr "Entrez votre adresse e-mail"
+
+#: app/views/Product/productAll.php:26
+msgid "At Zenthial Zone Design, innovation meets versatility, providing a comprehensive solution for all your product needs. From stylish apparel to cutting-edge aquatic and industrial goods, Zenthial Zone Designs is your one-stop destination. Discover a world of possibilities with ZZD, where excellence and diversity converge to bring your visions to life."
+msgstr "Chez Zenthial Zone Design, l'innovation rencontre la polyvalence, offrant une solution complète pour tous vos besoins en produits. Des vêtements élégants aux produits aquatiques et industriels de pointe, Zenthial Zone Designs est votre destination unique. Découvrez un monde de possibilités avec ZZD, où l'excellence et la diversité convergent pour donner vie à vos visions."
+
+#: app/views/Product/productAll.php:24
+msgid "All Products"
+msgstr "Tous les produits"
+
+
+#: app/views/Home/index.php:228
+#: app/views/Home/index.php:554
+msgid "See All"
+msgstr "Voir tout"
+
+#: app/views/footer.php:30
+msgid "Wish List"
+msgstr "Liste de souhaits"
+
+#: app/views/footer.php:32
+msgid "Your Account"
+msgstr "Votre compte"
+
+#: app/views/Product/offcanvas/searchCanvas.php:5
+msgid "What are you looking for?"
+msgstr "Que recherchez-vous ?"
+
+#: app/views/Product/offcanvas/searchCanvas.php:6
+msgid "Close search"
+msgstr "Fermer la recherche"
+
+#: app/views/Product/offcanvas/searchCanvas.php:9
+msgid "Search by product name...9"
+msgstr "Recherchez par nom de produit..."
+
+#: app/views/Product/offcanvas/searchCanvas.php:17
+msgid "Didn't find what you are looking for?"
+msgstr "Vous n'avez pas trouvé ce que vous cherchez ?"
+
+#: app/views/Product/offcanvas/searchCanvas.php:17
+#: app/views/Product/product.php:17
+msgid "Send us a message."
+msgstr "Envoyez-nous un message."
+
+#: app/views/Product/product.php:314
+msgid "Type Of Product"
+msgstr "Type de produit"
+
+#: app/views/Product/product.php:326
+msgid "Is It in Stock"
+msgstr "Est-ce en stock"
+
+#: app/views/Product/product.php:345
+msgid "Add To Cart"
+msgstr "Ajouter au panier"
+
+#: app/views/Product/product.php:368
+#: app/views/Product/product.php:402
+#: app/views/Product/productReviews.php:188
+#: app/views/Product/productReviews.php:68 
+#: app/views/Product/productReviews.php:90 
+#: app/views/Product/productReviews.php:115
+#: app/views/Product/productReviews.php:140
+#: app/views/Product/productReviews.php:165
+msgid "Reviews"
+msgstr "Avis"
+
+#: app/views/Product/product.php:478
+msgid "You May Also Like"
+msgstr "Vous aimerez peut-être aussi"
+
+#: app/views/Product/product.php:521
+msgid "See More"
+msgstr "Voir plus"
+
+#: app/views/Product/product.php:882
+msgid "Leave A Review"
+msgstr "Laisser un avis"
+
+#: app/views/Product/product.php:889
+msgid "Your Review Detail"
+msgstr "Détail de votre avis"
+
+#: app/views/Product/product.php:890
+msgid "Review Title"
+msgstr "Titre de l'avis"
+
+#: app/views/Product/product.php:893
+#: app/views/Product/product.php:894
+msgid "Your Review"
+msgstr "Votre avis"
+
+#: app/views/Product/product.php:897
+msgid "Rating"
+msgstr "Note"
+
+#: app/views/Product/product.php:907
+msgid "Submit Review"
+msgstr "Soumettre l'avis"
+
+#: app/views/Product/productReviews.php:17
+msgid "reviews"
+msgstr "avis"
+
+#: app/views/Product/productReviews.php:241
+msgid "Verified Customer"
+msgstr "Client vérifié"
+
+#: app/views/Product/productReviews.php:266
+msgid "Yes, I would recommend the product"
+msgstr "Oui, je recommanderais le produit"
+
+#: app/views/Product/productReviews.php:270
+msgid "No, I wouldn't recommend the product"
+msgstr "Non, je ne recommanderais pas le produit"
+
+#: app/views/Product/productReviews.php:300
+msgid "Please log in to view all Reviews"
+msgstr "Veuillez vous connecter pour voir tous les avis"
+
+#: app/views/Product/productReviews.php:316
+msgid "Write a review"
+msgstr "Écrire un avis"
+
+#: app/views/Product/productReviews.php:316
+msgid "Please log in to write a review"
+msgstr "Veuillez vous connecter pour écrire un avis"
+
+#: app/views/Product/productReviews.php:395
+msgid "View All Reviews"
+msgstr "Voir tous les avis"
+
+
+#: app/views/Product/productReviews.php:304
+msgid "Showing"
+msgstr "Montrer"
+
+
+#: app/views/Product/productReviews.php:304
+msgid "of"
+msgstr "sur"
+
+#: app/views/Product/product.php:345
+msgid "Please log in to add to cart"
+msgstr "Veuillez vous connecter pour ajouter au panier"
+
+
+#: app/views/Admin/orderManagement.php:80
+msgid "Search by Order ID or Customer Name"
+msgstr "Recherche par Numéro d'ordre ou par Nom de client"
+
+#: app/views/Admin/newsletter.php:71
+msgid "Everyone Subscribed to the Newsletter"
+msgstr "Tout le monde est abonné à la lettre d'information"
+
+#: app/views/Admin/newsletter.php:87
+#: app/views/Admin/contact.php:86
+msgid "or"
+msgstr "ou"
+
+#: app/views/Category/update.php:86
+msgid "Deselect All"
+msgstr "Désélectionner tout"
+
+#: app/views/Category/update.php:100 
+#: app/views/Category/addMultiple.php:74
+#: app/views/Picture/ProductImage.php:74
+msgid "Add"
+msgstr "Ajouter"
+
+
+#: app/views/Product/product.php:852
+msgid "Review submitted successfully. However your review will be visible as soon as an admin verifies your review."
+msgstr "L'évaluation a été soumise avec succès. Cependant, votre avis sera visible dès qu'un administrateur aura vérifié votre avis."
+
+
+#: app/views/Product/create.php:48
+msgid "Products Managment"
+msgstr "Gestion des produits"
+
+#: app/views/Product/create.php:54
+msgid "Add Product"
+msgstr "Ajouter un produit"
+
+#: app/views/Product/create.php:63
+#: app/views/Product/create.php:64
+msgid "Product Title"
+msgstr "Titre du produit"
+
+#: app/views/Product/create.php:71
+msgid "Product Type"
+msgstr "Type de produit"
+
+#: app/views/Product/create.php:86
+msgid "Price"
+msgstr "Prix"
+
+#: app/views/Product/create.php:95
+msgid "Upload Product Thumbnail"
+msgstr "Télécharger la vignette du produit"
+
+#: app/views/Product/create.php:105
+msgid "In Stock?"
+msgstr "En stock ?"
+
+#: app/views/Product/create.php:118
+msgid "Enter Quantity"
+msgstr "Entrer la quantité"
+
+#: app/views/Picture/ProductImage.php:55
+msgid "Add 5 Maximum Images"
+msgstr "Ajouter un maximum de 5 images"
+
+#: app/views/Picture/ProductImage.php:61
+msgid "Update Image"
+msgstr "Mettre à jour l'image"
+
+#: app/views/Picture/ProductImage.php:72
+#: app/views/Picture/ProductImage.php:89
+msgid "Select an image file to upload"
+msgstr "Sélectionnez un fichier image à télécharger"
+
+#: app/views/Picture/ProductImage.php:77
+msgid "Product Images"
+msgstr "Images du produit"
+
+#: app/views/Picture/editImage.php:48
+msgid "Image Management"
+msgstr "Gestion des images"
+
+#: app/views/Picture/editImage.php:54
+msgid "Change Image"
+msgstr "Changer l'image"
+
+#: app/views/Picture/editImage.php:62
+msgid "Select an image file to modify"
+msgstr "Sélectionnez un fichier image à modifier"
+
+#: app/views/Picture/editImage.php:64
+msgid "Change"
+msgstr "Modifier"
+
+
+#: app/views/Product/update.php:53
+#: app/views/Product/update.php:47
+msgid "Update Product"
+msgstr "Modifier"
+
+#: app/views/User/login.php:21
+#: app/views/User/login.php:97
+msgid "Customer Login"
+msgstr "Connexion Client"
+
+#: app/views/User/login.php:43
+#: app/views/User/login.php:100
+msgid "Login"
+msgstr "Connexion"
+
+#: app/views/User/login.php:47
+msgid "Click Here"
+msgstr "Cliquez ici"
+
+#: app/views/User/login.php:50
+msgid "Register For Customer"
+msgstr "Inscription Client"
+
+#: app/views/User/login.php:108
+msgid "Admin Login"
+msgstr "Connexion Admin"
+
+#: app/views/User/login.php:98
+#: app/views/User/login.php:46
+msgid "Login As Admin?"
+msgstr "Se connecter en tant qu'administrateur ?"
+
+#: app/views/User/login.php:105
+msgid "Log In As Customer"
+msgstr "Se connecter en tant que client"
+
+#: app/views/User/register.php:26
+msgid "Customer Registration"
+msgstr "Inscription Client"
+
+#: app/views/User/register.php:44
+msgid "Password"
+msgstr "Mot de passe"
+
+#: app/views/User/register.php:47
+msgid "At Least 8 Characters For Password"
+msgstr "Au moins 8 caractères pour le mot de passe"
+
+#: app/views/User/register.php:49
+msgid "Register"
+msgstr "S'inscrire"
+
+#: app/views/User/register.php:51
+msgid "I have an account"
+msgstr "J'ai un compte"
+
+#: app/views/Product/productcategory.php:71
+msgid "Sort By"
+msgstr "Trier par"
+
+
+#: app/views/Product/productcategory.php:135
+msgid "Items"
+msgstr "Articles"
+
+#: app/views/Product/productAll.php:365
+msgid "Next"
+msgstr "Suivant"
+
+#: app/views/Product/productAll.php:318
+msgid "Prev"
+msgstr "Précédent"
+
+#: app/views/Product/productAll.php:134
+msgid "There Is No Product"
+msgstr "Il n'y a pas de produit"
+
+#: app/views/Product/productcategoryNone.php:86
+msgid "There is no product for this category"
+msgstr "Il n'y a pas de produit pour cette catégorie"
+
+#: app/views/Cart/cart.php:139
+msgid "Grand Total"
+msgstr "Total Général"
+
+#: app/views/Cart/cart.php:127
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: app/views/Cart/cart.php:140
+msgid "Sales Tax"
+msgstr "Taxe de vente"
+
+#: app/views/Cart/cart.php:190
+msgid "A CVV is a number on your credit card or debit card that's in addition to your credit card number and expiration date"
+msgstr "Un CVV est un numéro figurant sur votre carte de crédit ou de débit qui s'ajoute au numéro de votre carte de crédit et à la date d'expiration."
+
+#: app/views/Product/productAllReviews.php:22
+msgid "The reviews for"
+msgstr "Les critiques pour"

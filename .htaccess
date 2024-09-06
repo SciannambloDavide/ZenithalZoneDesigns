@@ -1,0 +1,18 @@
+Options -MultiViews
+Options -Indexes
+
+RewriteEngine On
+RewriteBase /
+
+# Check to see if the request is for a real file, directory or symlink
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d [OR]
+RewriteCond %{REQUEST_FILENAME} -l
+RewriteRule ^ - [L]
+
+# Exclude any requests explicitly for "assets" from being rewritten
+RewriteCond %{REQUEST_URI} !^/assets/
+
+# Rewrite all other requests to index.php
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+RewriteRule ^()$ index.php?url=$1 [QSA,L]

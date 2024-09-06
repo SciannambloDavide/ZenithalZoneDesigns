@@ -1,0 +1,391 @@
+# French translations for PACKAGE package.
+# Copyright (C) 2024 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# root <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-16 03:50+0000\n"
+"PO-Revision-Date: 2024-05-16 03:50+0000\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: app/views/Admin/adminSideBar.php:6 app/views/Admin/dashboard.php:63
+msgid "Dashboard"
+msgstr "Tableau de Bord"
+
+#: app/views/Admin/adminSideBar.php:9
+#: app/views/Admin/productManagement.php:63
+msgid "Product Management"
+msgstr "Gestion des Produits"
+
+#: app/views/Admin/adminSideBar.php:12
+#: app/views/Admin/reviewManagement.php:63
+msgid "Review Management"
+msgstr "Gestion des Avis"
+
+#: app/views/Admin/adminSideBar.php:15
+#: app/views/Admin/categoryManagement.php:63 app/views/Category/create.php:65
+msgid "Category Management"
+msgstr "Gestion des Catégories"
+
+#: app/views/Admin/adminSideBar.php:18
+msgid "Order Management"
+msgstr "Gestion des Commandes"
+
+#: app/views/Admin/adminSideBar.php:21
+msgid "Newsletter"
+msgstr "Bulletin d'Information"
+
+#: app/views/Admin/adminSideBar.php:24
+msgid "Contact User"
+msgstr "Contacter l'Utilisateur"
+
+#: app/views/Admin/categoryManagement.php:52 app/views/Admin/contact.php:52
+#: app/views/Admin/dashboard.php:53 app/views/Admin/newsletter.php:52
+#: app/views/Admin/orderManagement.php:51
+#: app/views/Admin/productManagement.php:52
+#: app/views/Admin/reviewManagement.php:52
+#: app/views/Category/addMultiple.php:53 app/views/Category/create.php:54
+#: app/views/Category/update.php:54 app/views/navBar.php:138
+#: app/views/Product/productAll.php:20 app/views/Product/Productcategory.php:20
+#: app/views/User/AdminLogin/navBar.php:139
+msgid "Home"
+msgstr "Accueil"
+
+#: app/views/Admin/categoryManagement.php:55 app/views/Admin/contact.php:55
+#: app/views/Admin/dashboard.php:56 app/views/Admin/newsletter.php:55
+#: app/views/Admin/orderManagement.php:54
+#: app/views/Admin/productManagement.php:55
+#: app/views/Admin/reviewManagement.php:55
+#: app/views/Category/addMultiple.php:56 app/views/Category/create.php:57
+#: app/views/Category/update.php:57 app/views/Customer/viewProfile.php:53
+#: app/views/User/AdminLogin/navBar.php:44
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: app/views/Admin/categoryManagement.php:75
+msgid "List Of Categories"
+msgstr "Liste des Catégories"
+
+#: app/views/Admin/categoryManagement.php:78
+#: app/views/Admin/productManagement.php:78
+#: app/views/Admin/reviewManagement.php:78
+msgid "--Select Option"
+msgstr "--Sélectionner une Option"
+
+#: app/views/Admin/categoryManagement.php:84
+#: app/views/Admin/orderManagement.php:76
+#: app/views/Admin/productManagement.php:86
+#: app/views/Admin/reviewManagement.php:86
+#: app/views/Category/addMultiple.php:70
+msgid "Sort"
+msgstr "Trier"
+
+#: app/views/Admin/categoryManagement.php:85
+#: app/views/Admin/productManagement.php:87
+#: app/views/Admin/reviewManagement.php:87
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: app/views/Admin/categoryManagement.php:88
+#: app/views/Admin/productManagement.php:90
+msgid "Search By Name"
+msgstr "Rechercher par Nom"
+
+#: app/views/Admin/categoryManagement.php:89
+#: app/views/Admin/orderManagement.php:81
+#: app/views/Admin/productManagement.php:91
+#: app/views/Admin/reviewManagement.php:91
+msgid "Search"
+msgstr "Rechercher"
+
+#: app/views/Admin/categoryManagement.php:93
+#: app/views/Admin/productManagement.php:95
+msgid "New Entry"
+msgstr "Nouvelle Entrée"
+
+#: app/views/Admin/categoryManagement.php:101
+#: app/views/Admin/productManagement.php:105 app/views/Category/update.php:65
+#: app/views/Category/update.php:99 app/views/Product/productAll.php:42
+#: app/views/Admin/productManagement.php:80
+msgid "Category"
+msgstr "Catégorie"
+
+#: app/views/Admin/categoryManagement.php:102
+msgid "Number of Products"
+msgstr "Nombre de Produits"
+
+#: app/views/Admin/categoryManagement.php:117
+msgid "Number of Products Under This Category"
+msgstr "Nombre de Produits Sous Cette Catégorie"
+
+#: app/views/Admin/categoryManagement.php:120
+#: app/views/Admin/productManagement.php:153
+msgid "Edit"
+msgstr "Modifier"
+
+#: app/views/Admin/categoryManagement.php:121
+#: app/views/Admin/productManagement.php:154
+#: app/views/Admin/reviewManagement.php:163
+msgid "Delete"
+msgstr "Supprimer"
+
+#: app/views/Admin/categoryManagement.php:144
+#: app/views/Admin/productManagement.php:180
+msgid "Error Deleting"
+msgstr "Erreur lors de la Suppression"
+
+#: app/views/Admin/categoryManagement.php:153
+#: app/views/Admin/productManagement.php:191
+#: app/views/Category/addMultiple.php:142 app/views/Category/update.php:172
+msgid "Close"
+msgstr "Fermer"
+
+#: app/views/Admin/contact.php:66
+msgid "Contact a User"
+msgstr "Contacter un Utilisateur"
+
+#: app/views/Admin/contact.php:69
+msgid "Customer Email"
+msgstr "Email du Client"
+
+#: app/views/Admin/contact.php:73 app/views/Admin/newsletter.php:74
+#: app/views/Contact/contact.php:25
+msgid "Subject"
+msgstr "Sujet"
+
+#: app/views/Admin/contact.php:77 app/views/Admin/newsletter.php:78
+#: app/views/Contact/contact.php:29
+msgid "Message"
+msgstr "Message"
+
+#: app/views/Admin/contact.php:80 app/views/Admin/newsletter.php:81
+#: app/views/Contact/contact.php:32
+msgid "Submit"
+msgstr "Soumettre"
+
+#: app/views/Admin/contact.php:91
+msgid "Download User List"
+msgstr "Télécharger la Liste des Utilisateurs"
+
+#: app/views/Admin/dashboard.php:64
+msgid "Welcome Back Administrator!"
+msgstr "Bienvenue Retour Administrateur !"
+
+#: app/views/Admin/newsletter.php:67
+msgid "Post On The Newsletter"
+msgstr "Poster sur le Bulletin d'Information"
+
+#: app/views/Admin/newsletter.php:70
+msgid "To"
+msgstr "À"
+
+#: app/views/Admin/newsletter.php:92
+msgid "Download Subscribers List"
+msgstr "Télécharger la Liste des Abonnés"
+
+#: app/views/Admin/orderManagement.php:62
+msgid "Order Managment"
+msgstr "Gestion des Commandes"
+
+#: app/views/Admin/orderManagement.php:67
+msgid "List of Orders"
+msgstr "Liste des Commandes"
+
+#: app/views/Admin/orderManagement.php:71
+msgid "Time Ascending"
+msgstr "Temps Ascendant"
+
+#: app/views/Admin/orderManagement.php:72
+msgid "Time Descending"
+msgstr "Temps Descendant"
+
+#: app/views/Admin/orderManagement.php:73
+msgid "Total Ascending"
+msgstr "Total Ascendant"
+
+#: app/views/Admin/orderManagement.php:74
+msgid "Total Descending"
+msgstr "Total Descendant"
+
+#: app/views/Admin/orderManagement.php:82
+msgid "Search By Order ID"
+msgstr "Rechercher par ID de Commande"
+
+#: app/views/Admin/orderManagement.php:83
+#: app/views/Admin/reviewManagement.php:98
+msgid "Search By User Email"
+msgstr "Rechercher par Email Utilisateur"
+
+#: app/views/Admin/orderManagement.php:89
+msgid "Total"
+msgstr "Total"
+
+#: app/views/Admin/productManagement.php:66
+msgid "Add Product"
+msgstr "Ajouter un Produit"
+
+#: app/views/Admin/productManagement.php:73
+#: app/views/Admin/productManagement.php:121
+msgid "Price"
+msgstr "Prix"
+
+#: app/views/Admin/productManagement.php:83
+msgid "Stock"
+msgstr "Stock"
+
+#: app/views/Admin/productManagement.php:89
+#: app/views/Admin/productManagement.php:123
+msgid "Status"
+msgstr "Statut"
+
+#: app/views/Admin/productManagement.php:96
+#: app/views/Category/create.php:70
+msgid "Active"
+msgstr "Actif"
+
+#: app/views/Admin/productManagement.php:97
+msgid "Inactive"
+msgstr "Inactif"
+
+#: app/views/Admin/productManagement.php:103
+#: app/views/Admin/reviewManagement.php:90
+msgid "Product Name A to Z"
+msgstr "Nom du Produit A à Z"
+
+#: app/views/Admin/productManagement.php:104
+#: app/views/Admin/reviewManagement.php:91
+msgid "Product Name Z to A"
+msgstr "Nom du Produit Z à A"
+
+#: app/views/Admin/productManagement.php:105
+msgid "Price Low to High"
+msgstr "Prix Croissant"
+
+#: app/views/Admin/productManagement.php:106
+msgid "Price High to Low"
+msgstr "Prix Décroissant"
+
+#: app/views/Admin/productManagement.php:107
+msgid "Stock Low to High"
+msgstr "Stock Croissant"
+
+#: app/views/Admin/productManagement.php:108
+msgid "Stock High to Low"
+msgstr "Stock Décroissant"
+
+#: app/views/Admin/productManagement.php:
+#: app/views/Admin/reviewManagement.php:97
+msgid "Search By Product Name"
+msgstr "Rechercher par Nom de Produit"
+
+#: app/views/Admin/productManagement.php:111
+msgid "Search By Category Name"
+msgstr "Rechercher par Nom de Catégorie"
+
+#: app/views/Admin/productManagement.php:112
+msgid "Search By Status"
+msgstr "Rechercher par Statut"
+
+#: app/views/Admin/productManagement.php:122
+msgid "Category Name"
+msgstr "Nom de la Catégorie"
+
+
+#: app/views/Admin/productManagement.php:124
+msgid "Action"
+msgstr "Action"
+
+#: app/views/Admin/reviewManagement.php:66
+msgid "Review"
+msgstr "Avis"
+
+#: app/views/Admin/reviewManagement.php:69
+#: app/views/Admin/productManagement.php:120
+#: app/views/Admin/productManagement.php:69
+msgid "Product Name"
+msgstr "Nom du Produit"
+
+#: app/views/Admin/reviewManagement.php:73
+msgid "User Email"
+msgstr "Email Utilisateur"
+
+#: app/views/Admin/reviewManagement.php:77
+msgid "Rating"
+msgstr "Évaluation"
+
+#: app/views/Admin/reviewManagement.php:81
+msgid "Review Text"
+msgstr "Texte de l'Avis"
+
+#: app/views/Admin/reviewManagement.php:89
+#: app/views/Admin/productManagement.php:102
+msgid "Sort By"
+msgstr "Trier Par"
+
+#: app/views/Admin/reviewManagement.php:92
+msgid "User Email A to Z"
+msgstr "Email Utilisateur A à Z"
+
+#: app/views/Admin/reviewManagement.php:93
+msgid "User Email Z to A"
+msgstr "Email Utilisateur Z à A"
+
+#: app/views/Admin/reviewManagement.php:94
+msgid "Rating Low to High"
+msgstr "Évaluation Croissante"
+
+#: app/views/Admin/reviewManagement.php:95
+msgid "Rating High to Low"
+msgstr "Évaluation Décroissante"
+
+#: app/views/Admin/reviewManagement.php:99
+msgid "Search By Rating"
+msgstr "Rechercher par Évaluation"
+
+#: app/views/Category/addMultiple.php:55
+msgid "Add Multiple Categories"
+msgstr "Ajouter Plusieurs Catégories"
+
+#: app/views/Category/addMultiple.php:58
+msgid "Upload CSV"
+msgstr "Importer un Fichier CSV"
+
+#: app/views/Category/create.php:66
+#: app/views/Category/update.php:66 app/views/Product/productAll.php:41
+msgid "Name"
+msgstr "Nom"
+
+#: app/views/Category/create.php:67
+msgid "Description"
+msgstr "Description"
+
+#: app/views/Category/create.php:68
+msgid "Parent Category"
+msgstr "Catégorie Parente"
+
+#: app/views/Category/create.php:69
+msgid "Image"
+msgstr "Image"
+
+#: app/views/Category/update.php:100
+msgid "Update Category"
+msgstr "Mettre à Jour la Catégorie"
+
+#: app/views/Product/productAll.php:21
+msgid "Products"
+msgstr "Produits"
+
+#: app/views/User/AdminLogin/navBar.php:38
+#: app/views/User/adminRegister.php:61
+#: app/views/navBar.php:141
+msgid "Admin"
+msgstr "Administrateur"

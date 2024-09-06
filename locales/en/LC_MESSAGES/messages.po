@@ -1,0 +1,149 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2024 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# root <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-15 23:48+0000\n"
+"PO-Revision-Date: 2024-05-15 23:58+0000\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: app/views/footer.php:13
+msgid "Company"
+msgstr "Company"
+
+#: app/views/footer.php:16
+msgid "About Us"
+msgstr "About Us"
+
+#: app/views/footer.php:18 app/views/navBar.php:143
+msgid "Contact"
+msgstr "Contact"
+
+#: app/views/footer.php:28
+msgid "Go To The Top"
+msgstr "Go To The Top"
+
+#: app/views/footer.php:30
+msgid "Wish List"
+msgstr "Wish List"
+
+#: app/views/footer.php:32
+msgid "Your Account"
+msgstr "Your Account"
+
+#: app/views/footer.php:39
+msgid "Join Our Newsletter"
+msgstr "Join Our Newsletter"
+
+#: app/views/footer.php:40
+msgid ""
+"Sign up to our newsletter to be the first to know about new arrivals, sales "
+"or anything else Zenithal.By subscribing to our mailing list you agree to "
+"our terms and conditions."
+msgstr ""
+"Sign up to our newsletter to be the first to know about new arrivals, sales "
+"or anything else Zenithal.By subscribing to our mailing list you agree to "
+"our terms and conditions."
+
+#: app/views/Home/index.php:21
+msgid "Where will your next adventure take you?"
+msgstr "Where will your next adventure take you?"
+
+#: app/views/Home/index.php:69 app/views/Home/index.php:386
+#: app/views/navBar.php:38
+msgid "Products"
+msgstr "Products"
+
+#: app/views/Home/index.php:70
+msgid "Lucky Finds"
+msgstr "Lucky Finds"
+
+#: app/views/Home/index.php:71
+msgid ""
+"Each item on this list has been curated for its potential to bring a stroke "
+"of luck into your life. Who knows? Your next lucky break might just be a "
+"click away!"
+msgstr ""
+"Each item on this list has been curated for its potential to bring a stroke "
+"of luck into your life. Who knows? Your next lucky break might just be a "
+"click away!"
+
+#: app/views/Home/index.php:228 app/views/Home/index.php:544
+msgid "See All"
+msgstr "See All"
+
+#: app/views/Home/index.php:273
+msgid "Extreme Peformance"
+msgstr "Extreme Peformance"
+
+#: app/views/Home/index.php:274
+msgid "Electronics"
+msgstr "Electronics"
+
+#: app/views/Home/index.php:275
+msgid ""
+"Be ready all year round with our selection of North Face outdoor jackets, "
+"perfect for any time of the year and year round. Choose from a variety of "
+"colour shades and styles to warm you up in cold conditions."
+msgstr ""
+"Be ready all year round with our selection of North Face outdoor jackets, "
+"perfect for any time of the year and year round. Choose from a variety of "
+"colour shades and styles to warm you up in cold conditions."
+
+#: app/views/Home/index.php:276
+msgid "Shop For Electronics"
+msgstr "Shop For Electronics"
+
+#: app/views/Home/index.php:387
+msgid "New Products"
+msgstr "New Products"
+
+#: app/views/Home/index.php:388
+msgid ""
+"Introducing our freshest arrivals, carefully curated to captivate your "
+"imagination and elevate your lifestyle. Unveil the allure of innovation with "
+"our newest products, each one a testament to quality, creativity, and "
+"ingenuity. "
+msgstr ""
+"Introducing our freshest arrivals, carefully curated to captivate your "
+"imagination and elevate your lifestyle. Unveil the allure of innovation with "
+"our newest products, each one a testament to quality, creativity, and "
+"ingenuity. "
+
+#: app/views/Home/index.php:579 app/views/navBar.php:210
+msgid "Your Cart"
+msgstr "Your Cart"
+
+#: app/views/navBar.php:50
+msgid "Categories"
+msgstr "Categories"
+
+#: app/views/navBar.php:80
+msgid "View All Product"
+msgstr "View All Product"
+
+#: app/views/navBar.php:138
+msgid "Home"
+msgstr "Home"
+
+#: app/views/navBar.php:229
+msgid "Proceed to Checkout"
+msgstr "Proceed to Checkout"
+
+#: app/views/navBar.php:230
+msgid "View Cart"
+msgstr "View Cart"
+
+#: app/views/navBar.php:246
+msgid "Log Out"
+msgstr "Log Out"
